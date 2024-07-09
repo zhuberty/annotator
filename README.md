@@ -17,6 +17,7 @@ LLMs such as ChatGPT rely heavily on articles and code commits rather than the e
 
 ## Installation
 ```bash
+cd ui
 bun install
 ```
 
